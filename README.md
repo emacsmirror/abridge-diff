@@ -1,4 +1,5 @@
-# abridge-diff
+# abridge-diff &nbsp; <a href="https://melpa.org/#/abridge-diff"><img alt="MELPA" src="https://melpa.org/packages/abridge-diff-badge.svg"/></a>
+
 A simple Emacs package for _abridging_ refined diff hunks (for example in [magit](https://github.com/magit/magit)).  Why abridge a diff hunk?  Most diffs are line based.  If you are working on files with very long lines, for example LaTeX files, or text files with full paragraphs per line (often using `visual-line-mode`), line-based diffs can be very challenging to read, even with "hunk refining" enabled (highlighting the words which changed). 
 
 ## In pictures:
